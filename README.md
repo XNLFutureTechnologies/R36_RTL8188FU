@@ -1,3 +1,6 @@
+# NOTE: DON'T USE THIS FORK YET! I'm currently working on it, preparing it etc!
+
+
 RTL8188FU driver for Linux kernel 4.15.x ~ 6.7.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 info: rtl8188fu support added to rtl8xxxu module of Linux kernel with version 6.2. 
